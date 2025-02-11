@@ -2,7 +2,7 @@ import React from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { addToCart } from "../cartSlice";
 import acera from "../assets/acera.jpg";
-import moneyPlant from "../assets/moneyplant.jpg";
+import moneyPlant from "../assets/moneyPlant.jpg";
 import peacelily from "../assets/peacelily.jpg";
 import bougainvillea from "../assets/bougainvillea.jpg";
 import jasmine from "../assets/jasmine.jpg";    
