@@ -1,4 +1,7 @@
 # Coursera-React-FinalProject
+
+https://coursera-fp.pages.dev
+
 Final project for IBM Developing Front End Apps with React (Coursera), "Paradise Nursery" shopping application.  It uses React , React Router , Redux and TailwindCss. It has three pages: a landing page, a product listing page, and a shopping cart page.  
 
 
